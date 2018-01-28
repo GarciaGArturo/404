@@ -1,4 +1,1 @@
-# 404
-Proyecto 404
-
-## Colección de páginas 404
+﻿# 404Proyecto 404## Colección de páginas 404Puede descargarlas directamente del repositorio en _cada carpeta_ o simplemente enlazar su web a la página **¡Fácil!**
