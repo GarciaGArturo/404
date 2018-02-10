@@ -110,7 +110,8 @@
 			<h1>404</h1>
 			<h2>Page not found</h2>
 			<h3>Página no encontrada</h3>
-			<button action="action" type="button" value="Back" onclick="window.history.go(-1); return false;" autofocus><< Back</button>
+			<button action="action" type="button" value="Back" onclick="goBack(); return false;" autofocus><< Back</button>
+			<script>function goBack() {window.history.go(-1);}</script>
 		</div>
 	</body>
 </html>
